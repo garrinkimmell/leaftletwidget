@@ -8,7 +8,7 @@ from IPython.display import display, HTML, Javascript
 leaflet_css = 'leaflet.css'
 # leaflet_url = '/nbextensions/leaflet-0.7.2'
 leaflet_js = 'leaflet'
-leaflet_url = '//cdn.leafletjs.com/leaflet-0.7.2'
+leaflet_url = '//cdn.leafletjs.com/leaflet-0.7.3'
 
 leaflet_draw_url = '//cdnjs.cloudflare.com/ajax/libs/leaflet.draw/0.2.3'
 # leaflet_draw_url = '/nbextensions/leaflet.draw/0.2.3'
